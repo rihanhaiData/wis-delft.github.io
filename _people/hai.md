@@ -30,5 +30,6 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/6e7de8
 
 ## About
 
-I am a postdoc researcher at Delft University of Technology (TU Delft). Before joining TU Delft, I received my Ph.D. degree from computer science 5 (Information Systems) of RWTH Aachen University. I received my master degree in June 2012 from the School of Information, Tsinghua University. Later I have joined SAP as a technical consultant. My research focuses on data integration and related dataset discovery in large-scale data lakes.
+Rihan Hai is a postdoctoral researcher at Delft University of Technology, Netherlands. She received her Ph.D. degree from RWTH Aachen University, Germany. Her research focuses on data integration and related dataset discovery in large-scale data lakes. 
+A full list of her publications can be found in: [Google scholar](https://scholar.google.com/citations?user=vD8M9R0AAAAJ&hl=en&inst=6173373803492361994).
 
